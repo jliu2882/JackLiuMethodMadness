@@ -18,6 +18,7 @@ public class Main {
         System.out.println(jliuLib.dateStr("09/20/2018"));
         System.out.println("-----------------------------");
         jliuLib.fooBarBaz(16);
+        System.out.println("");
         System.out.println("-----------------------------");
         System.out.println(jliuLib.leastCommonMultiple(2,2,2));
         System.out.println("-----------------------------");
